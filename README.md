@@ -31,11 +31,11 @@ This project replicates the look and feel of Amazon's homepage with a focus on l
 
 ## 📷 Screenshots
 
-- (Here’s a preview of the Amazon Clone:
+- Here’s a preview of the Amazon Clone:
 
 ![Amazon Clone Screenshot](OUTPUT/1.png)
-![Amazon Clone Screenshot2(OUTPUT/2.png)
-![Amazon Clone Screenshot3(OUTPUT/3.png)
+![Amazon Clone Screenshot](OUTPUT/2.png)
+![Amazon Clone Screenshot](OUTPUT/3.png)
 
 ---
 
@@ -47,5 +47,5 @@ This project replicates the look and feel of Amazon's homepage with a focus on l
    git clone https://github.com/codeWithAnika/amazon_clone.git
 
 ## 🧑‍💻 Author
-   Anika Talavadekar
-   GitHub: @codeWithAnika
+- Anika Talavadekar
+- [@codeWithAnika](https://github.com/codeWithAnika/)
