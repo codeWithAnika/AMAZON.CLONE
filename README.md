@@ -33,7 +33,9 @@ This project replicates the look and feel of Amazon's homepage with a focus on l
 
 - (Here’s a preview of the Amazon Clone:
 
-![Amazon Clone Screenshot](screenshot.png)
+![Amazon Clone Screenshot](OUTPUT/1.png)
+![Amazon Clone Screenshot2(OUTPUT/2.png)
+![Amazon Clone Screenshot3(OUTPUT/3.png)
 
 ---
 
