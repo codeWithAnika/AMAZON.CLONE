@@ -24,8 +24,7 @@ This project replicates the look and feel of Amazon's homepage with a focus on l
 ---
 
 ## 🖥️ Live Preview
-
-> You can host this project on GitHub Pages or Netlify and paste the link here.
+- link (file:///C:/Users/anika/OneDrive/Desktop/Project/index.html) 
 
 ---
 
