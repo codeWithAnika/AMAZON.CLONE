@@ -24,7 +24,7 @@ This project replicates the look and feel of Amazon's homepage with a focus on l
 ---
 
 ## 🖥️ Live Preview
-- link (file:///C:/Users/anika/OneDrive/Desktop/Project/index.html) 
+- link (https://warm-zuccutto-b263c2.netlify.app/)
 
 ---
 
