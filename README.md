@@ -43,7 +43,7 @@ This project replicates the look and feel of Amazon's homepage with a focus on l
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/codeWithAnika/amazon_clone.git
+   git clone https://github.com/codeWithAnika/amazon.clone.git
 
 ## 🧑‍💻 Author
 - Anika Talavadekar
